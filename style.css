@@ -1,0 +1,22 @@
+canvas {
+  display:flex;
+}
+
+.divApp {
+  width: 400px;
+  height: 400px;
+}
+
+.cc1 {
+  width: 400px;
+  height: 400px;
+  top: 0;
+  left: 0;
+}
+
+.cc2 {
+  width: 400px;
+  height: 400px;
+  top: 900px;
+  left: 0;
+}
